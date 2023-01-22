@@ -1,0 +1,37 @@
+.box{
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 50px auto;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+#postimage{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#name,#location{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 40%;
+}
+#description{
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 91%;
+}
+.btn1{
+    margin: 15px 130px;
+}
+.btn1:hover{
+    background-color: blueviolet;
+    border: none;
+    border-radius: 5px;
+    width:50px;
+    height: 30px;
+}

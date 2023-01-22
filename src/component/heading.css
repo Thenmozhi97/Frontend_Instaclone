@@ -1,0 +1,10 @@
+.heading{
+    display: flex;
+    border: 1px solid red;
+    align-items: center;
+    justify-content: space-around;
+    height:40px
+}
+.camera{
+    font-size: 30px;
+}
